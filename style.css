@@ -1,0 +1,25 @@
+* 
+body {
+  width: 100%;
+  height: 55vh;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: column;
+  color: #05000adc;
+}
+.converter {
+  width: 280px;
+  font-size: 22px;
+}
+input {
+  width: 50%;
+  border: 1px solid #717377;
+  border-radius: 25px;
+  padding: 5px;
+  margin: 10px 10px;
+  font-size: 30px;
+  text-align: left;
+  cursor: pointer;
+  color: #310202;
+}
